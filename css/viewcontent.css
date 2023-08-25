@@ -34,6 +34,12 @@ th, td {
   background-color: #f2f2f2;
 }
 
+.update-btn{
+  background-color: #1a53ff;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
 
 @media screen and (max-width: 600px) {
   .content,{
