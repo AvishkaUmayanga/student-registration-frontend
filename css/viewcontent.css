@@ -41,6 +41,13 @@ th, td {
   border-radius: 5px;
 }
 
+.delete-btn{
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
 @media screen and (max-width: 600px) {
   .content,{
     max-width: 300px;
